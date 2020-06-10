@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+	
+	<!--
+	 Created by XML Export feature at MyAnimeList.net
+	 Programmed by Xinil
+	 Last updated 5/27/2008
+	-->
+	
+	<myanimelist>
+	
+		<myinfo>
+			<user_id>7777777</user_id>
+			<user_name>User</user_name>
+			<user_export_type>2</user_export_type>
+			<user_total_manga>4</user_total_manga>
+			<user_total_reading>0</user_total_reading>
+			<user_total_completed>1</user_total_completed>
+			<user_total_onhold>0</user_total_onhold>
+			<user_total_dropped>1</user_total_dropped>
+			<user_total_plantoread>2</user_total_plantoread>
+		</myinfo>
+	
+	
+				<manga>
+					<manga_mangadb_id>38</manga_mangadb_id>
+					<manga_title><![CDATA[+Anima]]></manga_title>
+					<manga_volumes>10</manga_volumes>
+					<manga_chapters>59</manga_chapters>
+					<my_id>88888886</my_id>
+					<my_read_volumes>10</my_read_volumes>
+					<my_read_chapters>59</my_read_chapters>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>6</my_score>
+					<my_storage></my_storage>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_read>1</my_times_read>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_reread_value></my_reread_value>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>1349</manga_mangadb_id>
+					<manga_title><![CDATA[07-Ghost]]></manga_title>
+					<manga_volumes>17</manga_volumes>
+					<manga_chapters>100</manga_chapters>
+					<my_id>88888887</my_id>
+					<my_read_volumes>0</my_read_volumes>
+					<my_read_chapters>5</my_read_chapters>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_status>Dropped</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_reread_value></my_reread_value>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>112398</manga_mangadb_id>
+					<manga_title><![CDATA[1-nen A-gumi no Monster]]></manga_title>
+					<manga_volumes>0</manga_volumes>
+					<manga_chapters>0</manga_chapters>
+					<my_id>88888888</my_id>
+					<my_read_volumes>0</my_read_volumes>
+					<my_read_chapters>12</my_read_chapters>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_status>Plan to Read</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_reread_value></my_reread_value>
+					<update_on_import>0</update_on_import>
+				</manga>
+			
+				<manga>
+					<manga_mangadb_id>95578</manga_mangadb_id>
+					<manga_title><![CDATA[10-manbun no 1]]></manga_title>
+					<manga_volumes>9</manga_volumes>
+					<manga_chapters>37</manga_chapters>
+					<my_id>88888889</my_id>
+					<my_read_volumes>0</my_read_volumes>
+					<my_read_chapters>0</my_read_chapters>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_scanalation_group><![CDATA[]]></my_scanalation_group>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_status>Plan to Read</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_read>0</my_times_read>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_reread_value></my_reread_value>
+					<update_on_import>0</update_on_import>
+				</manga>
+			</myanimelist>
